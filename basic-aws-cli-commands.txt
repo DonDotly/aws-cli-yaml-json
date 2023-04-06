@@ -1,0 +1,10 @@
+#aws configure 
+use to set up aws configurations on your PC
+#aws s3 ls
+accessing your list of buckets if any was created
+# aws s3 mb s3://bucket-name
+creating an aws s3 bucket
+# aws s3 cp file.txt s3://bucket-name
+pushing a file into your s3 bucket
+# aws s3 rm s3://bucket-name/file.txt
+use for deleting files in your bucket
